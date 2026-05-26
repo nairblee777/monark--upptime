@@ -1,7 +1,7 @@
 owner: nairblee777
-  repo: monark-upptime
+repo: monark-upptime
 
-  sites:    
+sites:    
     - name: MonarkOS API
       url: https://api.monarkos.com/health    
     - name: MonarkOS App
@@ -13,6 +13,6 @@ owner: nairblee777
     - name: Automations
       url: https://automations.monarkrev.com/healthz
 
-  status-website:
+status-website:
     cname: status.monarkos.com
     name: MonarkOS Status
