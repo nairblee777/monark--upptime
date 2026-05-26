@@ -1,15 +1,14 @@
 owner: nairblee777
-  repo: monark-upptime  userAgent: MonarkOS-Upptime
+  repo: monark-upptime
   sites:
-    - name: MonarkOS API
-      url: https://api.monarkos.com/health
+    - name: MonarkOS API      url: https://api.monarkos.com/health
     - name: MonarkOS App
       url: https://app.monarkos.com
     - name: Stripe
       url: https://www.stripestatus.com/api/v2/status.json
     - name: Twilio
       url: https://status.twilio.com/api/v2/status.json
-    - name: Automations
+    - name: Automations (n8n)
       url: https://automations.monarkrev.com/healthz
 
   status-website:
