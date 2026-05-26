@@ -1,7 +1,8 @@
 owner: nairblee777
   repo: monark-upptime
 
-  sites:    - name: MonarkOS API
+  sites:    
+    - name: MonarkOS API
       url: https://api.monarkos.com/health    - name: MonarkOS App
       url: https://app.monarkos.com
     - name: Stripe
