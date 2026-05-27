@@ -29,7 +29,7 @@ status-website:
     name: MonarkOS Status
     logoUrl: https://monarkos.com/assets/images/MonarkOS-primary-purple-logo.png
     favicon: https://monarkos.com/favicon.ico
-    themeUrl: https://status.monarkos.com/monarkos-status.css
+    themeUrl: https://nairblee777.github.io/monark--upptime/monarkos-status.css
     navbar:
       - title: Status
         href: /
