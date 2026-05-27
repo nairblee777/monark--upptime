@@ -1,7 +1,7 @@
 owner: nairblee777
-  repo: monark-upptime
+repo: monark-upptime
 
-  sites:
+sites:
     - name: MonarkOS Web
       url: https://monarkos.com
       icon: https://monarkos.com/favicon.ico
@@ -24,7 +24,7 @@ owner: nairblee777
     - name: Twilio
       url: https://status.twilio.com/api/v2/status.json
 
-  status-website:
+status-website:
     cname: status.monarkos.com
     name: MonarkOS Status
     logoUrl: https://monarkos.com/assets/images/MonarkOS-primary-purple-logo.png
@@ -40,5 +40,5 @@ owner: nairblee777
     introTitle: "MonarkOS System Status"
     introMessage: "Live availability and response-time monitoring for MonarkOS services."
 
-  i18n:
+i18n:
     footer: "MonarkOS Status"
