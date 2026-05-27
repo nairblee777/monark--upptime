@@ -1,18 +1,44 @@
 owner: nairblee777
-repo: monark-upptime
+  repo: monark-upptime
 
-sites:    
-    - name: MonarkOS API
-      url: https://api.monarkos.com/health    
+  sites:
+    - name: MonarkOS Web
+      url: https://monarkos.com
+      icon: https://monarkos.com/favicon.ico
+
     - name: MonarkOS App
       url: https://app.monarkos.com
-    - name: Stripe
-      url: https://www.stripestatus.com/api/v2/status.json
-    - name: Twilio
-      url: https://status.twilio.com/api/v2/status.json
+      icon: https://monarkos.com/favicon.ico
+
+    - name: MonarkOS API
+      url: https://api.monarkos.com/health
+      icon: https://monarkos.com/favicon.ico
+
     - name: Automations
       url: https://automations.monarkrev.com/healthz
+      icon: https://monarkos.com/favicon.ico
 
-status-website:
+    - name: Stripe
+      url: https://www.stripestatus.com/api/v2/status.json
+
+    - name: Twilio
+      url: https://status.twilio.com/api/v2/status.json
+
+  status-website:
     cname: status.monarkos.com
     name: MonarkOS Status
+    logoUrl: https://monarkos.com/assets/images/MonarkOS-primary-purple-logo.png
+    favicon: https://monarkos.com/favicon.ico
+    themeUrl: https://status.monarkos.com/monarkos-status.css
+    navbar:
+      - title: Status
+        href: /
+      - title: Main Site
+        href: https://monarkos.com
+      - title: Support
+        href: https://monarkos.com/contact
+    introTitle: "MonarkOS System Status"
+    introMessage: "Live availability and response-time monitoring for MonarkOS services."
+
+  i18n:
+    footer: "MonarkOS Status"
