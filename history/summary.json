@@ -5,18 +5,18 @@
     "icon": "https://monarkos.com/favicon.ico",
     "slug": "monark-os-web",
     "status": "up",
-    "uptime": "63.68%",
-    "uptimeDay": "63.68%",
-    "uptimeWeek": "63.68%",
-    "uptimeMonth": "63.68%",
-    "uptimeYear": "63.68%",
+    "uptime": "39.97%",
+    "uptimeDay": "39.97%",
+    "uptimeWeek": "39.97%",
+    "uptimeMonth": "39.97%",
+    "uptimeYear": "39.97%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-27": 15
+      "2026-05-27": 39
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://monarkos.com/favicon.ico",
     "slug": "monark-os-app",
     "status": "up",
-    "uptime": "99.14%",
-    "uptimeDay": "99.14%",
-    "uptimeWeek": "99.14%",
-    "uptimeMonth": "99.14%",
-    "uptimeYear": "99.14%",
+    "uptime": "97.08%",
+    "uptimeDay": "97.08%",
+    "uptimeWeek": "97.08%",
+    "uptimeMonth": "97.08%",
+    "uptimeYear": "97.08%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-27": 10
+      "2026-05-27": 34
     }
   },
   {
@@ -45,18 +45,18 @@
     "icon": "https://monarkos.com/favicon.ico",
     "slug": "monark-os-api",
     "status": "up",
-    "uptime": "99.56%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.56%",
-    "uptimeMonth": "99.56%",
-    "uptimeYear": "99.56%",
+    "uptime": "97.49%",
+    "uptimeDay": "97.49%",
+    "uptimeWeek": "97.49%",
+    "uptimeMonth": "97.49%",
+    "uptimeYear": "97.49%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-27": 5
+      "2026-05-27": 30
     }
   },
   {
@@ -65,18 +65,18 @@
     "icon": "https://monarkos.com/favicon.ico",
     "slug": "automations",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "97.90%",
+    "uptimeDay": "97.90%",
+    "uptimeWeek": "97.90%",
+    "uptimeMonth": "97.90%",
+    "uptimeYear": "97.90%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-27": 0
+      "2026-05-27": 25
     }
   },
   {
